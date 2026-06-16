@@ -1,6 +1,6 @@
 # URL Shortener API
 
-A simple URL Shortener built using FastAPI, PostgreSQL, SQLAlchemy, and JWT Authentication.
+A simple URL Shortener which is now in MVP level built using FastAPI, PostgreSQL, SQLAlchemy, and JWT Authentication.
 
 ## Features
 
@@ -16,7 +16,7 @@ A simple URL Shortener built using FastAPI, PostgreSQL, SQLAlchemy, and JWT Auth
 * FastAPI
 * PostgreSQL
 * SQLAlchemy
-* JWT Authentication
+* JWT Bearer Authentication
 * ShortUUID
 
 ## Endpoints
